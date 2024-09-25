@@ -66,7 +66,7 @@ class AuthService{
                     }
 
                     return{
-                        msg:"Data Fetched",
+                        msg:"Data fetched",
                         user:checkExist
                     }
             }
